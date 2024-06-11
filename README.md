@@ -1,3 +1,5 @@
 # PharmacoEquity
-The term pharmacoequity was coined by Dr. Utibe Essien, who defines it as: _"[..the goal of ensuring that everyone, regardless of race or social class, has access to life-saving medicines.]([url](https://www.uressien.com/))"_ This repository is dedicated to building resources to serve as a part of the growing need for reserarch and policy infrastructre to  achieve pharmacoequity.  I have created an organization: "Foundations for PharmacoEquity", to which I invite you to join and help identify, create, and share the knowledge, tools, and actions needed to achieve pharmacoequity.
- 
+[Dr. Utibe Essien coined the term "pharmacoequity"](https://www.uressien.com/), which  expresses "...the goal of ensuring that everyone, regardless of race or social class, has access to life-saving medicines." 
+
+# Foundations for PharmacoEquity
+This organization is dedicated to identifying, commpiling, and developing resources to serve as a part of the research and policy infrastructre to  achieve pharmacoequity.  I invite everyone to join and help share and advance the knowledge, tools, and plans needed to achieve pharmacoequity.
